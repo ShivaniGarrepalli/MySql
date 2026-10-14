@@ -1,5 +1,5 @@
 -- BANKING SCENARIO
-
+USE sql_assignment;
 -- Customers
 create table Customer(c_id int primary key auto_increment,c_name varchar(40),city varchar(40));
 
